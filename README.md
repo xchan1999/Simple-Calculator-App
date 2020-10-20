@@ -1,4 +1,4 @@
-# calulator_app
+# Simple Calulator App
 
 A new Flutter project.
 
